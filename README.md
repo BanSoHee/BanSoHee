@@ -1,12 +1,13 @@
-### Hi there 👋
+### 👋 Hi there !
 
 - 🤖 **I’m a Mechanical & Biomedical Engineering Student**
 - 💻 **I did a double major in Software**
 
-### How to reach me ? 🤔
+### 📌✨ How to reach me ?
 
-- 📧 **sohi's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bsh1004664@ewhain.net)](mailto:bsh1004664@ewhain.net)
-- ✏ **sohi's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/bsh1004664)](https://blog.naver.com/bsh1004664)
+- 📧 **sohi's email ...** <a href="mailto:bsh1004664@ewhain.net" target="_blank"><img src="https://img.shields.io/badge/email-inactive?style=flat&logo=gmail&logoColor=white"/></a>
+- ✏ **sohi's blog ...** <a href="https://blog.naver.com/bsh1004664" target="_blank"><img src="https://img.shields.io/badge/blog-ff69b4?style=flat&logo=blogger&logoColor=white"/></a>
+
 
 ![sohi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanSoHee&show_icons=true&theme=dracula)   
 
